@@ -76,7 +76,7 @@
   <a href="mailto:Gupta.harish788@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gupta.harish788@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="https://www.linkedin.com/in/harish7735/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
