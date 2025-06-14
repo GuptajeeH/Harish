@@ -63,7 +63,7 @@ Mumbai University (2016 – 2019)
 
 ## 🤝 Connect with Me
 - 📧 Email: [Gupta.harish788@gmail.com](mailto:Gupta.harish788@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile Here]
+- 💼 LinkedIn: 
 
 ---
 
