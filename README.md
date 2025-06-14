@@ -64,7 +64,7 @@ Right now, I’m passionate about:
 If you’re working on something exciting, need help with data analysis, or just want to chat about tech and process automation — feel free to reach out!  
 
 - 📧 Email: [gupta.harish788@gmail.com](mailto:gupta.harish788@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile Here]  
+- 💼 LinkedIn: https://www.linkedin.com/in/harish7735/
 
 ---
 
