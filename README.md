@@ -1,93 +1,90 @@
-<h1 align="center">Hi 👋, I'm Harish Gupta</h1>
-<h3 align="center">Data Analyst | Engineering Analyst | User Trust & Safety | Based in Dublin, Ireland</h3>
+# 👋 Hello, I'm Harish Gupta
+
+### 📍 Based in Dublin, Ireland | 📧 gupta.harish788@gmail.com | 📞 +353 899707405
+
+---
+
+## ✨ About Me
+I'm a **curious, results-driven Data Analyst** with over **3 years of experience** solving problems at the intersection of **data, product quality, and user trust.**
+
+I’ve worked on:
+- 📊 Making complex datasets meaningful  
+- 🛡️ Mitigating risks and improving user safety  
+- ⚙️ Automating reporting and reducing manual work  
+- 🔍 Enhancing search quality and content safety for global products  
+
+I genuinely enjoy:
+- Turning messy data into clean stories  
+- Designing dashboards people actually enjoy using  
+- Learning new ways to automate and simplify processes  
+
+Right now, I’m passionate about:
+- 🚀 Building smarter, faster reporting tools  
+- 🤖 Exploring Large Language Models (LLMs) and their impact on trust and safety  
+- 🌱 Growing as a **data storyteller** who can bridge tech and business
+
+---
+
+## 🛠️ Tools I Love Working With
+- **Data Analytics**: Python | R | SQL | Excel | Pandas | NumPy  
+- **Visualization**: Power BI | Tableau | Google Data Studio  
+- **Automation**: Python Scripts | Excel Macros  
+- **Project Tools**: JIRA | Confluence | Trello | Slack  
+
+---
+
+## 🚩 Highlights I'm Proud Of
+✅ Improved data quality compliance by **20%** through strong governance  
+✅ Automated weekly reports, saving **50% of manual effort**  
+✅ Contributed to **LLM-based content safety evaluations**  
+✅ Managed SEO and website improvement projects with measurable success  
+✅ Promoted quickly based on performance, leadership, and precision  
+
+---
+
+## 🔍 Current Focus Areas
+- Building smarter dashboards  
+- Process automation to save time  
+- Deepening expertise in user trust & safety  
+- Exploring ethical applications of machine learning  
+
+---
+
+## 🎓 Learning & Certifications
+- 📊 Power BI: Building Reports & Dashboards (Microsoft)  
+- 🗂️ Data Modeling and Architecture (Microsoft)  
+- 🔍 Data Visualization Fundamentals (Microsoft)  
+- 🔐 Digital Safety & Cyber Ethics (Coursera, In Progress)  
+- ⚙️ Advanced Excel & Reporting Automation  
+- 🛠️ JIRA & Confluence for Process Management  
+
+---
+
+## 📫 Let's Connect!
+If you’re working on something exciting, need help with data analysis, or just want to chat about tech and process automation — feel free to reach out!  
+
+- 📧 Email: [gupta.harish788@gmail.com](mailto:gupta.harish788@gmail.com)  
+- 💼 LinkedIn: [Your LinkedIn Profile Here]  
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/User%20Trust%20&%20Safety-Focus-green?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harish&show_icons=true&theme=gruvbox" alt="Harish's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish&theme=gruvbox" alt="Harish's GitHub Streak" />
 </p>
 
 ---
 
-## 🚀 About Me
-🎯 Results-driven **Data Analyst & Engineering Analyst** with over 3 years of experience in:
-- Data Analysis | Policy Risk Mitigation | Search Quality Evaluation
-- Prompt-based **Large Language Model (LLM)** Contributions
-- SEO, Website Management & Search Infrastructure
-- Reporting Automation | Power BI | Python | SQL
-
-💡 I love solving complex data problems, automating workflows, and making data-driven decisions accessible to everyone.
+## 🌱 Fun Facts
+- I love automating tasks that people hate doing manually.
+- I enjoy learning about how search engines work behind the scenes.
+- Coffee fuels both my thinking and my Python scripts ☕🐍.
 
 ---
 
-## 🔥 My Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Data%20Science-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-Analytics-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Reporting-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Python%20%7C%20Excel-3E8EDE?style=for-the-badge" />
-</p>
-
----
-
-## ✨ Key Achievements
-- 🚀 **Improved Data Quality**: Achieved a 20% improvement in data quality compliance via governance frameworks.
-- ⚡ **Automation Champion**: Reduced manual reporting time by 50% with Python and Excel Macros.
-- 🔎 **Search Quality Expert**: Investigated abuse patterns and improved search safety across platforms.
-- 🤖 **Prompt-based LLM Contributor**: Enhanced large language model accuracy through high-quality data labeling.
-- 🌍 **SEO & Website Management**: Contributed to web projects that improved search visibility and compliance.
-
----
-
-## 📚 Certifications
-- 📊 Microsoft: Power BI Reporting & Dashboards
-- 🗂️ Microsoft: Data Modeling & Architecture
-- 📈 Microsoft: Data Visualization Fundamentals
-- 🛡️ Coursera: Digital Safety & Cyber Ethics (In Progress)
-- 📑 Advanced Excel & Reporting Automation
-- 🛠️ JIRA & Confluence Process Management
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish&show_icons=true&theme=tokyonight" alt="Harish's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish&theme=tokyonight" alt="Harish's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish&layout=compact&theme=tokyonight" alt="Harish's Top Languages" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:Gupta.harish788@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gupta.harish788@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="https://www.linkedin.com/in/harish7735/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🚀 Let's Collaborate
-I’m always excited to connect, collaborate, and contribute to exciting projects, especially in:
-- 📊 Data Analytics & Visualization
-- 🔎 User Trust & Safety
-- 🖥️ Search Quality & SEO
-- ⚙️ Automation & Process Improvements
-
-Feel free to reach out and let's build something amazing together! 🙌
+### Thanks for stopping by! 🙌
